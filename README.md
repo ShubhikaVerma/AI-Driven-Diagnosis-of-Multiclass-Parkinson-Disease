@@ -100,6 +100,8 @@ To interpret model predictions:
 - **Best Performance:** Logistic Regression with Backward Elimination and SMOTE (Accuracy: 69%)
 
 📊  See full metrics in [performance_metrics_summary.md](./performance_metrics_summary.md)
+🧾  See confusion matrix [Confusion Matrices](./confuse.png)
+
 
 
 ---
