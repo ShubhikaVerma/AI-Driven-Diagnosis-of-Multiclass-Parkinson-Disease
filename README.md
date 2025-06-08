@@ -99,7 +99,8 @@ To interpret model predictions:
 ### PD vs HC vs Other:
 - **Best Performance:** Logistic Regression with Backward Elimination and SMOTE (Accuracy: 69%)
 
-📊 See [results/](./results/) for all metrics and confusion matrices.
+📊  See full metrics in [performance_metrics_summary.md](./results/performance_metrics_summary.md)
+
 
 ---
 
